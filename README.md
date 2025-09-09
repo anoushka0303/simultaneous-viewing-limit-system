@@ -72,17 +72,6 @@ All of these servers are executed by `localhost:portnumber`
 </br>
 </br>
 
-### You can start Redis & Kafka cluster easily with these documents!
-#### Redis Cluster tutorial
-[😎  Start Redis cluster easily](https://github.com/kimyuuum/redis-cluster-tutorial)
-</br>
-
-#### Kafka tutorial
-[🙄 Start Kafka easily](https://github.com/kimyuuum/kafka-cluster-tutorial)
-
-</br>
-</br>
-
 ### Server ports
 
 Push Service : `9002`
@@ -183,6 +172,4 @@ $ java -jar target/check-service-0.0.1-SNAPSHOT.jar
 ## Conclusion
 
 Now you can use this Viewing-Limit-System.
-
-Contact with my github profiles / dbals4818@gmail.com
 
